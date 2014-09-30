@@ -20,7 +20,7 @@ A simple HTML + CSS Fullscreen Background Slider, no extra markup
 ```
 
 
-##Sass + [Bourbon](http://bourbon.io)
+##[Sass](http://sass-lang.com/) + [Bourbon](http://bourbon.io)
 
 ```sass
 body
